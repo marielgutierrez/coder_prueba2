@@ -1,0 +1,17 @@
+#subtema {
+    background-color: palevioletred;
+}
+.paragraph {
+    background-color: aqua;
+}
+a {
+    text-decoration: none;
+}
+body {
+    background-image: url("https://www.pride.com/media-library/maneskin.jpg?id=32843676&width=980");
+    background-size: cover;
+}
+.navegador {
+
+    background-color: greenyellow;
+}
